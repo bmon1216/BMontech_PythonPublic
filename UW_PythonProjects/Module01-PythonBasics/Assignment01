@@ -1,0 +1,27 @@
+Bryan Mon
+July 13, 2021
+IT FDN 110 A Su 21: Foundations Of Programming: Python
+Assignment 01
+
+Creating a Python Script
+Introduction
+During this week’s assignment, we began our studies to the programming language, Python. The lecture and readings covered the benefits of using Python in addition to having us complete our first Python script. 
+Python as a Tool
+Python is a object-oriented programming language which benefits from being useful in small project as well as larger applications.  Python programs are easier to read because the syntax is closer to English than other high-level languages. 
+Our First Script
+Our first script showcases the simplicity of the Python syntax. Our assignment was clear, we needed to prompt a user to input their name and then display the result back to the user. 
+ 
+FIGURE 1
+Figure 1 is a screenshot of my code. We first prompt for the first name, and save that to a variable “firstName”. We do the same with the last name, and then combine those results to display back to the user. Figure 2 shows the result. 
+ 
+FIGURE 2
+Conclusion
+Our first assignment introduced us to our first two functions in Python, the print() and the input(). I look forward to using more built-in functions to create more complex code. 
+
+
+
+
+
+
+
+
