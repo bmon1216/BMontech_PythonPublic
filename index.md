@@ -2,7 +2,7 @@
 ### August 24, 2021
 ### IT FDN 110 A Su 21: Foundations Of Programming: Python
 ### Assignment 07
-### My Assignment at Github: Module07-Files&Exceptions (external link)
+### My Assignment at Github: https://github.com/bmon1216/BMontech_PythonPublic/tree/main/UW_PythonProjects/Module07-Files%26Exceptions (external link)
 ### My Github page: https://github.bmontech.com (external link)
 
 # Try / Except and Pickle
