@@ -1,12 +1,13 @@
-#Bryan Mon
-#August 24, 2021
-#IT FDN 110 A Su 21: Foundations Of Programming: Python
-#Assignment 07
-#My Assignment at Github: https://github.com/bmon1216/IntroToProg-Python-Mod06 
-#My Github page: https://github.bmontech.com
-#Try / Except and Pickle
+### Bryan Mon
+### August 24, 2021
+### IT FDN 110 A Su 21: Foundations Of Programming: Python
+### Assignment 07
+### My Assignment at Github: https://github.com/bmon1216/IntroToProg-Python-Mod06 
+### My Github page: https://github.bmontech.com
 
-##Introduction
+# Try / Except and Pickle
+
+## Introduction
 Our assignment this week was less restrictive compared to our previous assignments. Instead of working with premade code, we were given a task to conduct independent research on Try blocks and Pickle in Python. We were the instructed on applying this research into a script of our own. I put my lessons into practice by making a small program which uses try blocks to assist users in inputting data, as well as, saving that data to a binary file using Pickle.
 
 ##Try / Except 
